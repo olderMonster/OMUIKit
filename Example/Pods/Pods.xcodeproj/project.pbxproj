@@ -7,98 +7,98 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		01DC180347DBB7871D151079A8B8CD9B /* BridgeRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2EB4DA027EE498ED9FAED85468B404 /* BridgeRequest.swift */; };
 		04F8C72FD38A1F8D0DB0F50F71F49F9E /* KMSwizzle.m in Sources */ = {isa = PBXBuildFile; fileRef = A467F58C8D28793AAA12F805362D2FCF /* KMSwizzle.m */; };
 		0E475821AA99AD7029E151EC50B74CE3 /* UINavigationController+KMNavigationBarTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = D231092EF3A8055AD82EEBFE951EBDA8 /* UINavigationController+KMNavigationBarTransition.m */; };
-		0E89B19B95782B37D7FD254BD797D943 /* OMWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B810247346A937BA804CF76CACABA4 /* OMWebViewController.swift */; };
+		1768068075AA5CE1B35D293CA9CEECAD /* NativeMethodRegister.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6CE45BEAF6C5554376F59A40D5EA7B /* NativeMethodRegister.swift */; };
 		1DBFE351B1F5B74C445FBF1F71270108 /* Pods-OMUIKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FB21D895B03DDA2C9615EC6D9D4C6631 /* Pods-OMUIKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2001744A281763ED64E5B4114F8D16A4 /* UINavigationBar+KMNavigationBarTransition_internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 220A0532847185AA6ED2D60CDF72BE7D /* UINavigationBar+KMNavigationBarTransition_internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		22E72A787784158775C9312BAE03F169 /* WKWebViewJavascriptBridge-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A24C66BDE48B2AB32FF701EB6B56312 /* WKWebViewJavascriptBridge-dummy.m */; };
+		2475CAB3058B3CC96FB4C4F380DF30CC /* OMWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26C0950193D22E090A0EBFE5388BEA27 /* OMWebViewController.swift */; };
 		2C1B783529CD6846F0CB88E09F55474F /* UINavigationController+KMNavigationBarTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CB8BCB24CA05621C2F050FFAB74C1D4 /* UINavigationController+KMNavigationBarTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2CEA3CF3BD7584BFAD907398449E466A /* UIViewController+KMNavigationBarTransition_internal.h in Headers */ = {isa = PBXBuildFile; fileRef = E38937594EC2840AEEAB264D83DE5371 /* UIViewController+KMNavigationBarTransition_internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3213A1FC9B2309ACBDBFDF83E7BE9776 /* WebBridgeImp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7930AB4167FA7C195C26923B95111A /* WebBridgeImp.swift */; };
 		32641642CF4F726D208DCE295D2F1418 /* UINavigationController+KMNavigationBarTransition_internal.h in Headers */ = {isa = PBXBuildFile; fileRef = A5E57357AF683B97C190CD9E93ED6974 /* UINavigationController+KMNavigationBarTransition_internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3739BE6FEF29C9142569C486B94C51AE /* UIScrollView+KMNavigationBarTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = E3834B51072B512DD092E42D153B8768 /* UIScrollView+KMNavigationBarTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		394C2B7726C9735114EF7FD21BDFAA0C /* OMNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 292ED0791DA8C90F9F7B66E815D7136A /* OMNavigationController.swift */; };
+		3942A90DF9EBF3F8CDF05EFC43B59F84 /* WebBridgeImp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61AE1D33354DA5F28B47DAEB67F6CD46 /* WebBridgeImp.swift */; };
 		44B832DC31870A936300CDA5C8D3EA91 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
 		45B0EE81D274947537F5F1B7447DFF13 /* KMNavigationBarTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 5234F7B0EE94252A224F065466B58FF5 /* KMNavigationBarTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		52A81E704B89EAFAD909FD7740923DCB /* WKWebViewJavascriptBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C8389E82534044CC91217C45BC08497 /* WKWebViewJavascriptBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5729944C44202CA6208CD2A77BE07C5D /* NativeMethodRegister.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7133D00BE7DEFEAE5D6D0011C8C5E5A8 /* NativeMethodRegister.swift */; };
+		48AE2DADE212C25F969ECF4AA25235DD /* WKWebViewJavascriptBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0450F1254ECE377E23AA562F42511C4B /* WKWebViewJavascriptBridge.swift */; };
+		4A5A3A437A4F8280CB19563CFCC2DC12 /* BridgeRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1663E5131418F6F2A83289D1CC258720 /* BridgeRequest.swift */; };
+		550024F8649590E91B18B7731EFED860 /* WKWebViewJavascriptBridgeJS.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC9D6B22C4096910DEA8D75D7D7743E2 /* WKWebViewJavascriptBridgeJS.swift */; };
+		5B01C16821F4B02DE2BDE730FDE71009 /* OMUIKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 15D5420B78BD2E53D118CF1791EC60D6 /* OMUIKit-dummy.m */; };
 		5D093E1BC872220AD246AFBF94B147FA /* UIViewController+KMNavigationBarTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = C90BB38ACA5EF1163D7E1BC93B59F621 /* UIViewController+KMNavigationBarTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5EC14C711C183650055EDA5B172E9708 /* WKWebViewJavascriptBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0450F1254ECE377E23AA562F42511C4B /* WKWebViewJavascriptBridge.swift */; };
-		686C4F0FFA54C4A7CC53D5E6DBA89151 /* OMUIKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7712F8D41C40CEF09CF69DD7821FD4B0 /* OMUIKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		686C4F0FFA54C4A7CC53D5E6DBA89151 /* OMUIKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CD58435D4CE3FB6D2F5398755A8DB3D /* OMUIKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6B540F19EDC058243295D6806E79558C /* Pods-OMUIKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BF549F40EF4774DD680D4B1AFBAA8E19 /* Pods-OMUIKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6BFD3378219A9BD77ADEA8F05E45448A /* WKWebViewJavascriptBridgeJS.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC9D6B22C4096910DEA8D75D7D7743E2 /* WKWebViewJavascriptBridgeJS.swift */; };
-		75B90582E10E0EBFED35A2ED10844F56 /* OMUIKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F64B8A6D34FB703452D154C06E8E2693 /* OMUIKit-dummy.m */; };
+		73FC3918E4E80822CEC9456790145633 /* ScreenAdaptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD59FB6E45C012C08C05AE4C0C3C233 /* ScreenAdaptor.swift */; };
 		7823C72D7D63386169685BA0D4DA5813 /* Pods-OMUIKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2521E1FDBEADC061345AF237CD218A87 /* Pods-OMUIKit_Example-dummy.m */; };
+		789A6AB45131BB31E50F114737602965 /* BridgeResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D6F534F8EAB8E9C85FBAC0D7D836E5 /* BridgeResponse.swift */; };
 		8DD6415A780C4C5B5D279F27492F7B85 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
 		8F13018BABF9C9AE96AA7C0FD0BC6730 /* UIViewController+KMNavigationBarTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFB0FCA51155777DCF06E95D29AC0F8 /* UIViewController+KMNavigationBarTransition.m */; };
-		9B4ED4026021860D3AF5F60432CF354F /* BridgeResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CE36D414D84C79CB63D344270FFE8B /* BridgeResponse.swift */; };
 		A0318F81B75BAB8446AA38F05AADCCE9 /* NSObject+KMNavigationBarTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 00B94302AEFC33EA5C273EDB72BDC706 /* NSObject+KMNavigationBarTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4253CAB413B53CC1887D4BADD7390DC /* KMNavigationBarTransition-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F2E2FCD4E1A3E6C14577889A6062E17 /* KMNavigationBarTransition-dummy.m */; };
+		A436C31474049BB36831F240D4C36E0E /* WKWebViewJavascriptBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C8389E82534044CC91217C45BC08497 /* WKWebViewJavascriptBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A5AC97727A96D1C0F665F951158CD853 /* OMNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B9641C16A88D14B290C6C572E998204 /* OMNavigationController.swift */; };
 		A781BA53DA601AC1E1E09833CFC4AF50 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */; };
 		AD42CC3C8F8ADAEE0529042861567304 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
-		AFE9DC50DE69B3012128DB696CB4C0AF /* WKWebViewJavascriptBridgeBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBC7E2887410A51AAC2D661CD5262F7 /* WKWebViewJavascriptBridgeBase.swift */; };
-		B5042746FF61A4D4435D6F2DC1FCCDE0 /* ScreenAdaptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C376B52542251D88206EF6C5FA5448 /* ScreenAdaptor.swift */; };
+		B1BD721FB0813938E7055171DD7F19E4 /* WKWebViewJavascriptBridge-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 470F77A324311DFCBB03AF953104220F /* WKWebViewJavascriptBridge-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B9E68A082FC5A860DD797223BCC878F2 /* KMSwizzle.h in Headers */ = {isa = PBXBuildFile; fileRef = A3A310A96211207761AABA2A3FD87A9C /* KMSwizzle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C054F21958A021E4DC86CDE39331B3D9 /* UIScrollView+KMNavigationBarTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2196936DDFEF17E5E6878471F108B27D /* UIScrollView+KMNavigationBarTransition.m */; };
+		C3B37729ED05B712336006D922351ABD /* BridgeError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A91142E839E4A689839E1F6D6B3882 /* BridgeError.swift */; };
 		C9FEE65EB8CE0BCF32317528572F13BF /* KMWeakObjectContainer.h in Headers */ = {isa = PBXBuildFile; fileRef = D8A7BA7B1C4B851EE78E00E025E467B5 /* KMWeakObjectContainer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CE189019F9228FF05DBD21D1CCB6DE11 /* NSObject+KMNavigationBarTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = FBBAF37CD031212764C6A3698626DEA4 /* NSObject+KMNavigationBarTransition.m */; };
+		D1017720475B13A0FFD4FB839E0BE271 /* WKWebViewJavascriptBridge-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A24C66BDE48B2AB32FF701EB6B56312 /* WKWebViewJavascriptBridge-dummy.m */; };
+		D474127ACDE6FC1C5992E52C39500091 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
 		D70F9A47C6338BD82FA12F937304708F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
-		D8C9413AE955E7BC7B64950CB92FBDF5 /* BridgeError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD668266A5A7C1B5145F3FD98307D7A /* BridgeError.swift */; };
 		D97DB824BB772CB18A520A97C40D6AF1 /* Pods-OMUIKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C24D7A3962F6CAC5B1C3D9145C107EB /* Pods-OMUIKit_Tests-dummy.m */; };
 		DB713D39FFFB54400AFE120F00D89DD6 /* KMNavigationBarTransition-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 01EC9BF08C1293F67710873D7F84E345 /* KMNavigationBarTransition-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DB936D3083796EFF339CD4DB7D7F0F84 /* OMViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8111A6F96EDFE3D35DE14920BA33B6F4 /* OMViewController.swift */; };
 		F75D613CB6209F059CFC5D7CA282400C /* UINavigationBar+KMNavigationBarTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 514D8E118811541966B70124FEB69215 /* UINavigationBar+KMNavigationBarTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FA2F286DD738977192993CAF45D580CF /* UINavigationBar+KMNavigationBarTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C2F4B4D14F8BFA36172845B3AB0298 /* UINavigationBar+KMNavigationBarTransition.m */; };
 		FAACEDDA3963C94007BAD46D504253FA /* KMWeakObjectContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = FB5EC5D47BE9ACF6BA46BBEF5FAD5265 /* KMWeakObjectContainer.m */; };
 		FB848CEFC22426BE470CFD011761CFDC /* UIScrollView+KMNavigationBarTransition_internal.h in Headers */ = {isa = PBXBuildFile; fileRef = B6D3DE7675C7CDCF7A9FDA07197363F9 /* UIScrollView+KMNavigationBarTransition_internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FC43E9EDD74C29E90BF1918DB7B151DA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
-		FEDF70FE09DA0F4CF4E6EABA40677237 /* OMViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5ECECE03743050F2989BDF45877A63 /* OMViewController.swift */; };
-		FF9AF94BFD7F5FCA07575A09F8948D68 /* WKWebViewJavascriptBridge-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 470F77A324311DFCBB03AF953104220F /* WKWebViewJavascriptBridge-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FC01166EAFA98C0A387BC9F0743B0C7D /* WKWebViewJavascriptBridgeBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBC7E2887410A51AAC2D661CD5262F7 /* WKWebViewJavascriptBridgeBase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		615EB4BF95B2907E0113496F0A14D059 /* PBXContainerItemProxy */ = {
+		24DDEDEB390C0044229C784B2023FE05 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 911C5EF83E8CBDDA0CED3A98546A84A0;
-			remoteInfo = WKWebViewJavascriptBridge;
+			remoteGlobalIDString = A41A10F8B0E22E6BC96094C628BF4D55;
+			remoteInfo = OMUIKit;
 		};
-		A271AC70C2E4FDB7CFBE6AF5B4BB9DE9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 6E0BC70619811D88CCBB6EAE8378BA07;
-			remoteInfo = KMNavigationBarTransition;
-		};
-		AF67AC0E0C9C1876F8FA99AC79CA7872 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 911C5EF83E8CBDDA0CED3A98546A84A0;
-			remoteInfo = WKWebViewJavascriptBridge;
-		};
-		C4AFEED8EBE392697BBF665128485E64 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 6E0BC70619811D88CCBB6EAE8378BA07;
-			remoteInfo = KMNavigationBarTransition;
-		};
-		F232540F8B0344038067089CF1443C8F /* PBXContainerItemProxy */ = {
+		251CE8754A0B8DB794E7912250DF1C84 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = B4D4409298A505924D151277DC394806;
 			remoteInfo = "Pods-OMUIKit_Example";
 		};
-		F2D56F23D151DFC219F8737B7F90A974 /* PBXContainerItemProxy */ = {
+		50DA7119214F77FA1D9D75594F7B0085 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A41A10F8B0E22E6BC96094C628BF4D55;
-			remoteInfo = OMUIKit;
+			remoteGlobalIDString = 911C5EF83E8CBDDA0CED3A98546A84A0;
+			remoteInfo = WKWebViewJavascriptBridge;
+		};
+		5B00BC1BE5231FE167D2EC76456B45F1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6E0BC70619811D88CCBB6EAE8378BA07;
+			remoteInfo = KMNavigationBarTransition;
+		};
+		DA4086D37931D5D2A8FC7A97E9644B24 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 911C5EF83E8CBDDA0CED3A98546A84A0;
+			remoteInfo = WKWebViewJavascriptBridge;
+		};
+		DC033A747E171CB2D8E283E36C00034E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6E0BC70619811D88CCBB6EAE8378BA07;
+			remoteInfo = KMNavigationBarTransition;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -106,56 +106,58 @@
 		00B94302AEFC33EA5C273EDB72BDC706 /* NSObject+KMNavigationBarTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+KMNavigationBarTransition.h"; path = "KMNavigationBarTransition/NSObject+KMNavigationBarTransition.h"; sourceTree = "<group>"; };
 		01EC9BF08C1293F67710873D7F84E345 /* KMNavigationBarTransition-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KMNavigationBarTransition-umbrella.h"; sourceTree = "<group>"; };
 		0450F1254ECE377E23AA562F42511C4B /* WKWebViewJavascriptBridge.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WKWebViewJavascriptBridge.swift; path = WKWebViewJavascriptBridge/WKWebViewJavascriptBridge.swift; sourceTree = "<group>"; };
-		04B810247346A937BA804CF76CACABA4 /* OMWebViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OMWebViewController.swift; sourceTree = "<group>"; };
-		0A4EE6FAA3E99035DD490E0C4E634BC6 /* OMUIKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OMUIKit.debug.xcconfig; sourceTree = "<group>"; };
 		0E6EA434D48B914C9C0C49BD35B283EB /* Pods-OMUIKit_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-OMUIKit_Example"; path = Pods_OMUIKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		15D5420B78BD2E53D118CF1791EC60D6 /* OMUIKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "OMUIKit-dummy.m"; sourceTree = "<group>"; };
+		1663E5131418F6F2A83289D1CC258720 /* BridgeRequest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BridgeRequest.swift; sourceTree = "<group>"; };
 		1BA70489CF34DF1801874CF656E0087F /* Pods-OMUIKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-OMUIKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		1C6CE45BEAF6C5554376F59A40D5EA7B /* NativeMethodRegister.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = NativeMethodRegister.swift; sourceTree = "<group>"; };
 		2196936DDFEF17E5E6878471F108B27D /* UIScrollView+KMNavigationBarTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+KMNavigationBarTransition.m"; path = "KMNavigationBarTransition/UIScrollView+KMNavigationBarTransition.m"; sourceTree = "<group>"; };
 		220A0532847185AA6ED2D60CDF72BE7D /* UINavigationBar+KMNavigationBarTransition_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationBar+KMNavigationBarTransition_internal.h"; path = "KMNavigationBarTransition/UINavigationBar+KMNavigationBarTransition_internal.h"; sourceTree = "<group>"; };
 		22268B73D59AEA3511E63527EB49693A /* Pods-OMUIKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-OMUIKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		23570B227209F45E699C0BEE6E676848 /* OMUIKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OMUIKit-prefix.pch"; sourceTree = "<group>"; };
 		2521E1FDBEADC061345AF237CD218A87 /* Pods-OMUIKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-OMUIKit_Example-dummy.m"; sourceTree = "<group>"; };
-		292ED0791DA8C90F9F7B66E815D7136A /* OMNavigationController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OMNavigationController.swift; sourceTree = "<group>"; };
+		26C0950193D22E090A0EBFE5388BEA27 /* OMWebViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OMWebViewController.swift; sourceTree = "<group>"; };
+		2EA8A3C488744E181ACE5F924CB97B56 /* OMUIKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OMUIKit.debug.xcconfig; sourceTree = "<group>"; };
+		345294F00A56C929CD10699654A6033C /* OMUIKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "OMUIKit-Info.plist"; sourceTree = "<group>"; };
 		3805F00291D537592975CA27F46BB304 /* Pods-OMUIKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-OMUIKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3AE2918B81E36E65C4E6896656A9A160 /* OMUIKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = OMUIKit.modulemap; sourceTree = "<group>"; };
 		3C24D7A3962F6CAC5B1C3D9145C107EB /* Pods-OMUIKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-OMUIKit_Tests-dummy.m"; sourceTree = "<group>"; };
 		3F2E2FCD4E1A3E6C14577889A6062E17 /* KMNavigationBarTransition-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KMNavigationBarTransition-dummy.m"; sourceTree = "<group>"; };
 		458FA8C306BAF21ACAD9CEFD1FB56561 /* Pods-OMUIKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-OMUIKit_Tests-Info.plist"; sourceTree = "<group>"; };
+		45AA276692373334686E6BB27D2DBF1A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		470F77A324311DFCBB03AF953104220F /* WKWebViewJavascriptBridge-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WKWebViewJavascriptBridge-umbrella.h"; sourceTree = "<group>"; };
 		49515060440B813DD948DA6415C4D42E /* Pods-OMUIKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-OMUIKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		4AD668266A5A7C1B5145F3FD98307D7A /* BridgeError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BridgeError.swift; sourceTree = "<group>"; };
 		514D8E118811541966B70124FEB69215 /* UINavigationBar+KMNavigationBarTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationBar+KMNavigationBarTransition.h"; path = "KMNavigationBarTransition/UINavigationBar+KMNavigationBarTransition.h"; sourceTree = "<group>"; };
 		5234F7B0EE94252A224F065466B58FF5 /* KMNavigationBarTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KMNavigationBarTransition.h; path = KMNavigationBarTransition/KMNavigationBarTransition.h; sourceTree = "<group>"; };
 		59F160E428FF69355C73054C07F37A05 /* Pods-OMUIKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-OMUIKit_Example-frameworks.sh"; sourceTree = "<group>"; };
-		5E7930AB4167FA7C195C26923B95111A /* WebBridgeImp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WebBridgeImp.swift; sourceTree = "<group>"; };
-		614F466D039D94CE6BF10A99454C92B3 /* OMUIKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "OMUIKit-Info.plist"; sourceTree = "<group>"; };
-		67F0C6B5E627274D3A040833FF4EA964 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		5C613F62F25E950E9A0889AF54412B8D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		61AE1D33354DA5F28B47DAEB67F6CD46 /* WebBridgeImp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WebBridgeImp.swift; sourceTree = "<group>"; };
 		6C8389E82534044CC91217C45BC08497 /* WKWebViewJavascriptBridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WKWebViewJavascriptBridge.h; path = WKWebViewJavascriptBridge/WKWebViewJavascriptBridge.h; sourceTree = "<group>"; };
+		6CD58435D4CE3FB6D2F5398755A8DB3D /* OMUIKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OMUIKit-umbrella.h"; sourceTree = "<group>"; };
 		6DEF8E971BBB10A6A75C09319D8444F4 /* WKWebViewJavascriptBridge-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WKWebViewJavascriptBridge-prefix.pch"; sourceTree = "<group>"; };
 		6ECF110717CE5E0B7D9B8288A2103068 /* KMNavigationBarTransition-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "KMNavigationBarTransition-Info.plist"; sourceTree = "<group>"; };
 		711911782B0454D83C0514B1DDB1DD64 /* Pods-OMUIKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-OMUIKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		7133D00BE7DEFEAE5D6D0011C8C5E5A8 /* NativeMethodRegister.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = NativeMethodRegister.swift; sourceTree = "<group>"; };
 		75501346DBC28613F324496C8BC6F266 /* OMUIKit */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = OMUIKit; path = OMUIKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		766CB2BBC295EB702CD8C670BA118C8C /* Pods-OMUIKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-OMUIKit_Example.modulemap"; sourceTree = "<group>"; };
-		7712F8D41C40CEF09CF69DD7821FD4B0 /* OMUIKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OMUIKit-umbrella.h"; sourceTree = "<group>"; };
 		7A24C66BDE48B2AB32FF701EB6B56312 /* WKWebViewJavascriptBridge-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WKWebViewJavascriptBridge-dummy.m"; sourceTree = "<group>"; };
-		7C8F6452573DA4A23D6E9E4B18E9AFA3 /* OMUIKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OMUIKit.release.xcconfig; sourceTree = "<group>"; };
+		7FD59FB6E45C012C08C05AE4C0C3C233 /* ScreenAdaptor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ScreenAdaptor.swift; sourceTree = "<group>"; };
+		8111A6F96EDFE3D35DE14920BA33B6F4 /* OMViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OMViewController.swift; sourceTree = "<group>"; };
+		82607391F4002B0C32D47F01D7F0AC09 /* OMUIKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OMUIKit-prefix.pch"; sourceTree = "<group>"; };
 		8393DD1E15DFBFFF1E8E538CF6059F0D /* Pods-OMUIKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-OMUIKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		85CE36D414D84C79CB63D344270FFE8B /* BridgeResponse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BridgeResponse.swift; sourceTree = "<group>"; };
+		87A91142E839E4A689839E1F6D6B3882 /* BridgeError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BridgeError.swift; sourceTree = "<group>"; };
 		8BD8A76C8F7DD4A56716BE7488D8017D /* Pods-OMUIKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-OMUIKit_Tests.modulemap"; sourceTree = "<group>"; };
 		8C251231A2FC4AFD528DB2275C284FC9 /* WKWebViewJavascriptBridge-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "WKWebViewJavascriptBridge-Info.plist"; sourceTree = "<group>"; };
 		8CB8BCB24CA05621C2F050FFAB74C1D4 /* UINavigationController+KMNavigationBarTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationController+KMNavigationBarTransition.h"; path = "KMNavigationBarTransition/UINavigationController+KMNavigationBarTransition.h"; sourceTree = "<group>"; };
+		8D291483540AD559BA46B6BE3E668FBB /* OMUIKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = OMUIKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8D6A560A098A54AA080A6F7840256DB5 /* OMUIKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = OMUIKit.modulemap; sourceTree = "<group>"; };
+		9B9641C16A88D14B290C6C572E998204 /* OMNavigationController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OMNavigationController.swift; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E5ECECE03743050F2989BDF45877A63 /* OMViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OMViewController.swift; sourceTree = "<group>"; };
 		9EFB0FCA51155777DCF06E95D29AC0F8 /* UIViewController+KMNavigationBarTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+KMNavigationBarTransition.m"; path = "KMNavigationBarTransition/UIViewController+KMNavigationBarTransition.m"; sourceTree = "<group>"; };
-		A1C376B52542251D88206EF6C5FA5448 /* ScreenAdaptor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ScreenAdaptor.swift; sourceTree = "<group>"; };
 		A250B66C66559D79E41190084D6FD1C2 /* Pods-OMUIKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-OMUIKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A3A310A96211207761AABA2A3FD87A9C /* KMSwizzle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KMSwizzle.h; path = KMNavigationBarTransition/KMSwizzle.h; sourceTree = "<group>"; };
-		A421ADFDC0C3954E0A861DBC1757FEFF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		A467F58C8D28793AAA12F805362D2FCF /* KMSwizzle.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KMSwizzle.m; path = KMNavigationBarTransition/KMSwizzle.m; sourceTree = "<group>"; };
 		A5C2F4B4D14F8BFA36172845B3AB0298 /* UINavigationBar+KMNavigationBarTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationBar+KMNavigationBarTransition.m"; path = "KMNavigationBarTransition/UINavigationBar+KMNavigationBarTransition.m"; sourceTree = "<group>"; };
 		A5E57357AF683B97C190CD9E93ED6974 /* UINavigationController+KMNavigationBarTransition_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationController+KMNavigationBarTransition_internal.h"; path = "KMNavigationBarTransition/UINavigationController+KMNavigationBarTransition_internal.h"; sourceTree = "<group>"; };
 		AD345B8FE93A5B39801B09020A40EF12 /* WKWebViewJavascriptBridge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WKWebViewJavascriptBridge.release.xcconfig; sourceTree = "<group>"; };
+		B2D6F534F8EAB8E9C85FBAC0D7D836E5 /* BridgeResponse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BridgeResponse.swift; sourceTree = "<group>"; };
 		B603BA8E473312163DDBA6E89BCB15BF /* Pods-OMUIKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-OMUIKit_Example-Info.plist"; sourceTree = "<group>"; };
 		B6D3DE7675C7CDCF7A9FDA07197363F9 /* UIScrollView+KMNavigationBarTransition_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+KMNavigationBarTransition_internal.h"; path = "KMNavigationBarTransition/UIScrollView+KMNavigationBarTransition_internal.h"; sourceTree = "<group>"; };
 		BA9056A5DD1D38BC87CF9E9D1A864399 /* KMNavigationBarTransition */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KMNavigationBarTransition; path = KMNavigationBarTransition.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -170,13 +172,11 @@
 		D8A7BA7B1C4B851EE78E00E025E467B5 /* KMWeakObjectContainer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KMWeakObjectContainer.h; path = KMNavigationBarTransition/KMWeakObjectContainer.h; sourceTree = "<group>"; };
 		E3834B51072B512DD092E42D153B8768 /* UIScrollView+KMNavigationBarTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+KMNavigationBarTransition.h"; path = "KMNavigationBarTransition/UIScrollView+KMNavigationBarTransition.h"; sourceTree = "<group>"; };
 		E38937594EC2840AEEAB264D83DE5371 /* UIViewController+KMNavigationBarTransition_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+KMNavigationBarTransition_internal.h"; path = "KMNavigationBarTransition/UIViewController+KMNavigationBarTransition_internal.h"; sourceTree = "<group>"; };
+		E5495226ACEDA3E341777D153E553992 /* OMUIKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OMUIKit.release.xcconfig; sourceTree = "<group>"; };
 		EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		EC2EB4DA027EE498ED9FAED85468B404 /* BridgeRequest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BridgeRequest.swift; sourceTree = "<group>"; };
 		F1BC2DEC76FEA1F34BCD96D13879F339 /* WKWebViewJavascriptBridge.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WKWebViewJavascriptBridge.modulemap; sourceTree = "<group>"; };
 		F25946FE11207C700B37CD308FE63069 /* Pods-OMUIKit_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-OMUIKit_Tests"; path = Pods_OMUIKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F27122A0E87477CBFDA228594D2F1C7F /* KMNavigationBarTransition.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KMNavigationBarTransition.release.xcconfig; sourceTree = "<group>"; };
-		F64B8A6D34FB703452D154C06E8E2693 /* OMUIKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "OMUIKit-dummy.m"; sourceTree = "<group>"; };
-		F86F0B355DFA4F1F56D22CC1280EE14A /* OMUIKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = OMUIKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F90DFCEC1E1A1FDCFB4927CB3E9CB59C /* KMNavigationBarTransition-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KMNavigationBarTransition-prefix.pch"; sourceTree = "<group>"; };
 		FA64E8B11BC45FD1BEFB0F6889EF6FE7 /* KMNavigationBarTransition.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = KMNavigationBarTransition.modulemap; sourceTree = "<group>"; };
 		FB21D895B03DDA2C9615EC6D9D4C6631 /* Pods-OMUIKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-OMUIKit_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -196,11 +196,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		13482DC8812B305971D5C49BCB143C99 /* Frameworks */ = {
+		42E3B117A7A088C6A562B98C57D36EDA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC43E9EDD74C29E90BF1918DB7B151DA /* Foundation.framework in Frameworks */,
+				D474127ACDE6FC1C5992E52C39500091 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,27 +254,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		2004F6DA8CA01FC8614AAFAA46D34E74 /* BaseWebViewController */ = {
-			isa = PBXGroup;
-			children = (
-				4AD668266A5A7C1B5145F3FD98307D7A /* BridgeError.swift */,
-				EC2EB4DA027EE498ED9FAED85468B404 /* BridgeRequest.swift */,
-				85CE36D414D84C79CB63D344270FFE8B /* BridgeResponse.swift */,
-				7133D00BE7DEFEAE5D6D0011C8C5E5A8 /* NativeMethodRegister.swift */,
-				04B810247346A937BA804CF76CACABA4 /* OMWebViewController.swift */,
-				5E7930AB4167FA7C195C26923B95111A /* WebBridgeImp.swift */,
-			);
-			name = BaseWebViewController;
-			path = OMUIKit/Classes/BaseWebViewController;
-			sourceTree = "<group>";
-		};
-		283E4874934E74E0946704C35F0B3C02 /* Adaptor */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Adaptor;
-			sourceTree = "<group>";
-		};
 		2A312F9494F7267A864C3AD82532428E /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -290,31 +269,6 @@
 			path = "../Target Support Files/WKWebViewJavascriptBridge";
 			sourceTree = "<group>";
 		};
-		2C5F1DF6EE1A49B8EC61250C944EB389 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				A421ADFDC0C3954E0A861DBC1757FEFF /* LICENSE */,
-				F86F0B355DFA4F1F56D22CC1280EE14A /* OMUIKit.podspec */,
-				67F0C6B5E627274D3A040833FF4EA964 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		2E233BC29992BD4A5D56F416146AD4D3 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				3AE2918B81E36E65C4E6896656A9A160 /* OMUIKit.modulemap */,
-				F64B8A6D34FB703452D154C06E8E2693 /* OMUIKit-dummy.m */,
-				614F466D039D94CE6BF10A99454C92B3 /* OMUIKit-Info.plist */,
-				23570B227209F45E699C0BEE6E676848 /* OMUIKit-prefix.pch */,
-				7712F8D41C40CEF09CF69DD7821FD4B0 /* OMUIKit-umbrella.h */,
-				0A4EE6FAA3E99035DD490E0C4E634BC6 /* OMUIKit.debug.xcconfig */,
-				7C8F6452573DA4A23D6E9E4B18E9AFA3 /* OMUIKit.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/OMUIKit";
-			sourceTree = "<group>";
-		};
 		33E2CBDCD8023E11562597B94FEB2295 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -322,25 +276,6 @@
 				E046B170E25FFB9F1E28C6D402800119 /* Pods-OMUIKit_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		4F612E826266D8899889B8E587647724 /* ScreenAdaptor */ = {
-			isa = PBXGroup;
-			children = (
-				A1C376B52542251D88206EF6C5FA5448 /* ScreenAdaptor.swift */,
-			);
-			name = ScreenAdaptor;
-			path = OMUIKit/Classes/ScreenAdaptor;
-			sourceTree = "<group>";
-		};
-		5315DF6FCB419D8E1421A1600036960D /* BaseViewController */ = {
-			isa = PBXGroup;
-			children = (
-				292ED0791DA8C90F9F7B66E815D7136A /* OMNavigationController.swift */,
-				9E5ECECE03743050F2989BDF45877A63 /* OMViewController.swift */,
-			);
-			name = BaseViewController;
-			path = OMUIKit/Classes/BaseViewController;
 			sourceTree = "<group>";
 		};
 		59C2806D8DC3EAD7DE0D526FEEC2325D /* Pods-OMUIKit_Example */ = {
@@ -382,6 +317,20 @@
 			path = WKWebViewJavascriptBridge;
 			sourceTree = "<group>";
 		};
+		71A19A585CFE2EEAADFC0CD3CF420DF5 /* Web */ = {
+			isa = PBXGroup;
+			children = (
+				87A91142E839E4A689839E1F6D6B3882 /* BridgeError.swift */,
+				1663E5131418F6F2A83289D1CC258720 /* BridgeRequest.swift */,
+				B2D6F534F8EAB8E9C85FBAC0D7D836E5 /* BridgeResponse.swift */,
+				1C6CE45BEAF6C5554376F59A40D5EA7B /* NativeMethodRegister.swift */,
+				26C0950193D22E090A0EBFE5388BEA27 /* OMWebViewController.swift */,
+				61AE1D33354DA5F28B47DAEB67F6CD46 /* WebBridgeImp.swift */,
+			);
+			name = Web;
+			path = OMUIKit/Classes/Web;
+			sourceTree = "<group>";
+		};
 		73B6B0A25ADC4486D389A04EFFC27D22 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -394,19 +343,21 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7A5C085F4B1E0C8E92608AE374D8FCF6 /* Development Pods */ = {
+		95C0E4A0DA3BD11DE35F026D673CB439 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D2ABAA670A6933221FC8A8E4BCD0450B /* OMUIKit */,
+				AAC0DF61816E86F518794A6CB3A7E0FB /* OMUIKit */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		A48EA2D61FD25E568E97AA5CD15480B7 /* Web */ = {
+		9CCEB84DA1386BFD2EF840DEE545E032 /* Adaptor */ = {
 			isa = PBXGroup;
 			children = (
+				7FD59FB6E45C012C08C05AE4C0C3C233 /* ScreenAdaptor.swift */,
 			);
-			name = Web;
+			name = Adaptor;
+			path = OMUIKit/Classes/Adaptor;
 			sourceTree = "<group>";
 		};
 		A9D4233BFB0B03203303C09AF5D8950F /* KMNavigationBarTransition */ = {
@@ -437,6 +388,19 @@
 			path = KMNavigationBarTransition;
 			sourceTree = "<group>";
 		};
+		AAC0DF61816E86F518794A6CB3A7E0FB /* OMUIKit */ = {
+			isa = PBXGroup;
+			children = (
+				9CCEB84DA1386BFD2EF840DEE545E032 /* Adaptor */,
+				AE65E7324C9AD494CFAF1A83E3839528 /* Core */,
+				E064A629792E1944C4CCC90396AB93BD /* Pod */,
+				E8E5D79D2068A6CA5714B27C93BA976B /* Support Files */,
+				71A19A585CFE2EEAADFC0CD3CF420DF5 /* Web */,
+			);
+			name = OMUIKit;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		AC937743FC1FE05DD82456EAD4725620 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -446,39 +410,26 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		B9DF7E83A2BE5C094585FEA8246D1B54 /* Core */ = {
+		AE65E7324C9AD494CFAF1A83E3839528 /* Core */ = {
 			isa = PBXGroup;
 			children = (
+				9B9641C16A88D14B290C6C572E998204 /* OMNavigationController.swift */,
+				8111A6F96EDFE3D35DE14920BA33B6F4 /* OMViewController.swift */,
 			);
 			name = Core;
+			path = OMUIKit/Classes/Core;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				7A5C085F4B1E0C8E92608AE374D8FCF6 /* Development Pods */,
+				95C0E4A0DA3BD11DE35F026D673CB439 /* Development Pods */,
 				1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */,
 				AC937743FC1FE05DD82456EAD4725620 /* Pods */,
 				73B6B0A25ADC4486D389A04EFFC27D22 /* Products */,
 				33E2CBDCD8023E11562597B94FEB2295 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		D2ABAA670A6933221FC8A8E4BCD0450B /* OMUIKit */ = {
-			isa = PBXGroup;
-			children = (
-				283E4874934E74E0946704C35F0B3C02 /* Adaptor */,
-				5315DF6FCB419D8E1421A1600036960D /* BaseViewController */,
-				2004F6DA8CA01FC8614AAFAA46D34E74 /* BaseWebViewController */,
-				B9DF7E83A2BE5C094585FEA8246D1B54 /* Core */,
-				2C5F1DF6EE1A49B8EC61250C944EB389 /* Pod */,
-				4F612E826266D8899889B8E587647724 /* ScreenAdaptor */,
-				2E233BC29992BD4A5D56F416146AD4D3 /* Support Files */,
-				A48EA2D61FD25E568E97AA5CD15480B7 /* Web */,
-			);
-			name = OMUIKit;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		E046B170E25FFB9F1E28C6D402800119 /* Pods-OMUIKit_Tests */ = {
@@ -495,6 +446,31 @@
 			);
 			name = "Pods-OMUIKit_Tests";
 			path = "Target Support Files/Pods-OMUIKit_Tests";
+			sourceTree = "<group>";
+		};
+		E064A629792E1944C4CCC90396AB93BD /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				5C613F62F25E950E9A0889AF54412B8D /* LICENSE */,
+				8D291483540AD559BA46B6BE3E668FBB /* OMUIKit.podspec */,
+				45AA276692373334686E6BB27D2DBF1A /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		E8E5D79D2068A6CA5714B27C93BA976B /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8D6A560A098A54AA080A6F7840256DB5 /* OMUIKit.modulemap */,
+				15D5420B78BD2E53D118CF1791EC60D6 /* OMUIKit-dummy.m */,
+				345294F00A56C929CD10699654A6033C /* OMUIKit-Info.plist */,
+				82607391F4002B0C32D47F01D7F0AC09 /* OMUIKit-prefix.pch */,
+				6CD58435D4CE3FB6D2F5398755A8DB3D /* OMUIKit-umbrella.h */,
+				2EA8A3C488744E181ACE5F924CB97B56 /* OMUIKit.debug.xcconfig */,
+				E5495226ACEDA3E341777D153E553992 /* OMUIKit.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/OMUIKit";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -520,15 +496,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5744DAB8488B71BC4D474B116703A064 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				52A81E704B89EAFAD909FD7740923DCB /* WKWebViewJavascriptBridge.h in Headers */,
-				FF9AF94BFD7F5FCA07575A09F8948D68 /* WKWebViewJavascriptBridge-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		6634390D1628718A8AFDD5E1D10F4B2D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -542,6 +509,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				686C4F0FFA54C4A7CC53D5E6DBA89151 /* OMUIKit-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F1D53679B9A44F922501C994C228CE8 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A436C31474049BB36831F240D4C36E0E /* WKWebViewJavascriptBridge.h in Headers */,
+				B1BD721FB0813938E7055171DD7F19E4 /* WKWebViewJavascriptBridge-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -568,7 +544,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				0940B1F7A96D332FE9844147136BF85E /* PBXTargetDependency */,
+				5BB36055D295364A9D4491919D7386CF /* PBXTargetDependency */,
 			);
 			name = "Pods-OMUIKit_Tests";
 			productName = Pods_OMUIKit_Tests;
@@ -595,12 +571,12 @@
 		};
 		911C5EF83E8CBDDA0CED3A98546A84A0 /* WKWebViewJavascriptBridge */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5F0BBF64F91CA25C979C45C34788D159 /* Build configuration list for PBXNativeTarget "WKWebViewJavascriptBridge" */;
+			buildConfigurationList = A0743F0D590AC81D2386315C1E4B72D7 /* Build configuration list for PBXNativeTarget "WKWebViewJavascriptBridge" */;
 			buildPhases = (
-				5744DAB8488B71BC4D474B116703A064 /* Headers */,
-				3620C7D62A8A6070373293CF34FB5287 /* Sources */,
-				13482DC8812B305971D5C49BCB143C99 /* Frameworks */,
-				732E1239B227CAD9F3FC2F35ED930B70 /* Resources */,
+				7F1D53679B9A44F922501C994C228CE8 /* Headers */,
+				1B44443C79F726DE661AEDE420D99CA0 /* Sources */,
+				42E3B117A7A088C6A562B98C57D36EDA /* Frameworks */,
+				75841233F43312A23164C0239F2D8400 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -616,15 +592,15 @@
 			buildConfigurationList = DA7CA63EE82F095B2FE5149ED9EE45E3 /* Build configuration list for PBXNativeTarget "OMUIKit" */;
 			buildPhases = (
 				73D73699CA364156E8B1A82F4717AEC1 /* Headers */,
-				A96CBA299FDD2C4C6D321AF2955ADC8F /* Sources */,
+				5F88E18897352F5B9EEE09C86F1A0F32 /* Sources */,
 				9634180CEF2F9AB24070D34D6377E75F /* Frameworks */,
 				46612539858773C758AD4C900A687A0C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				07C5B8ECB93D833D0DD37A847F58CAC4 /* PBXTargetDependency */,
-				FD8D117AD63E849ECC9F35E614FDA92B /* PBXTargetDependency */,
+				E1054D25191B4BEAB4B682CCF3C35C2E /* PBXTargetDependency */,
+				75D62505BE8823EE0E459D64AF0D20A3 /* PBXTargetDependency */,
 			);
 			name = OMUIKit;
 			productName = OMUIKit;
@@ -643,9 +619,9 @@
 			buildRules = (
 			);
 			dependencies = (
-				EED44F4E278058F2F7CD0A1A6F5F3577 /* PBXTargetDependency */,
-				6E7BA2A35347C1DE51166FA2801359D0 /* PBXTargetDependency */,
-				73C68D2872F85871A70D59427146C728 /* PBXTargetDependency */,
+				29A0794B2BC3A8E6C5992ED79859FA40 /* PBXTargetDependency */,
+				6E3E6650F9E57BE345284B689ED2CF1B /* PBXTargetDependency */,
+				67454F9B64F704F55DAA89ADEB184FB4 /* PBXTargetDependency */,
 			);
 			name = "Pods-OMUIKit_Example";
 			productName = Pods_OMUIKit_Example;
@@ -691,7 +667,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		732E1239B227CAD9F3FC2F35ED930B70 /* Resources */ = {
+		75841233F43312A23164C0239F2D8400 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -722,22 +698,22 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		1B44443C79F726DE661AEDE420D99CA0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				48AE2DADE212C25F969ECF4AA25235DD /* WKWebViewJavascriptBridge.swift in Sources */,
+				D1017720475B13A0FFD4FB839E0BE271 /* WKWebViewJavascriptBridge-dummy.m in Sources */,
+				FC01166EAFA98C0A387BC9F0743B0C7D /* WKWebViewJavascriptBridgeBase.swift in Sources */,
+				550024F8649590E91B18B7731EFED860 /* WKWebViewJavascriptBridgeJS.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		24F402679B60243B41E8723830941E5C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				D97DB824BB772CB18A520A97C40D6AF1 /* Pods-OMUIKit_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3620C7D62A8A6070373293CF34FB5287 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5EC14C711C183650055EDA5B172E9708 /* WKWebViewJavascriptBridge.swift in Sources */,
-				22E72A787784158775C9312BAE03F169 /* WKWebViewJavascriptBridge-dummy.m in Sources */,
-				AFE9DC50DE69B3012128DB696CB4C0AF /* WKWebViewJavascriptBridgeBase.swift in Sources */,
-				6BFD3378219A9BD77ADEA8F05E45448A /* WKWebViewJavascriptBridgeJS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -756,20 +732,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A96CBA299FDD2C4C6D321AF2955ADC8F /* Sources */ = {
+		5F88E18897352F5B9EEE09C86F1A0F32 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8C9413AE955E7BC7B64950CB92FBDF5 /* BridgeError.swift in Sources */,
-				01DC180347DBB7871D151079A8B8CD9B /* BridgeRequest.swift in Sources */,
-				9B4ED4026021860D3AF5F60432CF354F /* BridgeResponse.swift in Sources */,
-				5729944C44202CA6208CD2A77BE07C5D /* NativeMethodRegister.swift in Sources */,
-				394C2B7726C9735114EF7FD21BDFAA0C /* OMNavigationController.swift in Sources */,
-				75B90582E10E0EBFED35A2ED10844F56 /* OMUIKit-dummy.m in Sources */,
-				FEDF70FE09DA0F4CF4E6EABA40677237 /* OMViewController.swift in Sources */,
-				0E89B19B95782B37D7FD254BD797D943 /* OMWebViewController.swift in Sources */,
-				B5042746FF61A4D4435D6F2DC1FCCDE0 /* ScreenAdaptor.swift in Sources */,
-				3213A1FC9B2309ACBDBFDF83E7BE9776 /* WebBridgeImp.swift in Sources */,
+				C3B37729ED05B712336006D922351ABD /* BridgeError.swift in Sources */,
+				4A5A3A437A4F8280CB19563CFCC2DC12 /* BridgeRequest.swift in Sources */,
+				789A6AB45131BB31E50F114737602965 /* BridgeResponse.swift in Sources */,
+				1768068075AA5CE1B35D293CA9CEECAD /* NativeMethodRegister.swift in Sources */,
+				A5AC97727A96D1C0F665F951158CD853 /* OMNavigationController.swift in Sources */,
+				5B01C16821F4B02DE2BDE730FDE71009 /* OMUIKit-dummy.m in Sources */,
+				DB936D3083796EFF339CD4DB7D7F0F84 /* OMViewController.swift in Sources */,
+				2475CAB3058B3CC96FB4C4F380DF30CC /* OMWebViewController.swift in Sources */,
+				73FC3918E4E80822CEC9456790145633 /* ScreenAdaptor.swift in Sources */,
+				3942A90DF9EBF3F8CDF05EFC43B59F84 /* WebBridgeImp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -784,75 +760,45 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		07C5B8ECB93D833D0DD37A847F58CAC4 /* PBXTargetDependency */ = {
+		29A0794B2BC3A8E6C5992ED79859FA40 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = KMNavigationBarTransition;
 			target = 6E0BC70619811D88CCBB6EAE8378BA07 /* KMNavigationBarTransition */;
-			targetProxy = C4AFEED8EBE392697BBF665128485E64 /* PBXContainerItemProxy */;
+			targetProxy = DC033A747E171CB2D8E283E36C00034E /* PBXContainerItemProxy */;
 		};
-		0940B1F7A96D332FE9844147136BF85E /* PBXTargetDependency */ = {
+		5BB36055D295364A9D4491919D7386CF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-OMUIKit_Example";
 			target = B4D4409298A505924D151277DC394806 /* Pods-OMUIKit_Example */;
-			targetProxy = F232540F8B0344038067089CF1443C8F /* PBXContainerItemProxy */;
+			targetProxy = 251CE8754A0B8DB794E7912250DF1C84 /* PBXContainerItemProxy */;
 		};
-		6E7BA2A35347C1DE51166FA2801359D0 /* PBXTargetDependency */ = {
+		67454F9B64F704F55DAA89ADEB184FB4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = WKWebViewJavascriptBridge;
+			target = 911C5EF83E8CBDDA0CED3A98546A84A0 /* WKWebViewJavascriptBridge */;
+			targetProxy = DA4086D37931D5D2A8FC7A97E9644B24 /* PBXContainerItemProxy */;
+		};
+		6E3E6650F9E57BE345284B689ED2CF1B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = OMUIKit;
 			target = A41A10F8B0E22E6BC96094C628BF4D55 /* OMUIKit */;
-			targetProxy = F2D56F23D151DFC219F8737B7F90A974 /* PBXContainerItemProxy */;
+			targetProxy = 24DDEDEB390C0044229C784B2023FE05 /* PBXContainerItemProxy */;
 		};
-		73C68D2872F85871A70D59427146C728 /* PBXTargetDependency */ = {
+		75D62505BE8823EE0E459D64AF0D20A3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = WKWebViewJavascriptBridge;
 			target = 911C5EF83E8CBDDA0CED3A98546A84A0 /* WKWebViewJavascriptBridge */;
-			targetProxy = 615EB4BF95B2907E0113496F0A14D059 /* PBXContainerItemProxy */;
+			targetProxy = 50DA7119214F77FA1D9D75594F7B0085 /* PBXContainerItemProxy */;
 		};
-		EED44F4E278058F2F7CD0A1A6F5F3577 /* PBXTargetDependency */ = {
+		E1054D25191B4BEAB4B682CCF3C35C2E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = KMNavigationBarTransition;
 			target = 6E0BC70619811D88CCBB6EAE8378BA07 /* KMNavigationBarTransition */;
-			targetProxy = A271AC70C2E4FDB7CFBE6AF5B4BB9DE9 /* PBXContainerItemProxy */;
-		};
-		FD8D117AD63E849ECC9F35E614FDA92B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = WKWebViewJavascriptBridge;
-			target = 911C5EF83E8CBDDA0CED3A98546A84A0 /* WKWebViewJavascriptBridge */;
-			targetProxy = AF67AC0E0C9C1876F8FA99AC79CA7872 /* PBXContainerItemProxy */;
+			targetProxy = 5B00BC1BE5231FE167D2EC76456B45F1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0024C839A9936D026C029C9D47989AE1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C9713B078513DF4F3DAD467072E77F8E /* WKWebViewJavascriptBridge.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge.modulemap";
-				PRODUCT_MODULE_NAME = WKWebViewJavascriptBridge;
-				PRODUCT_NAME = WKWebViewJavascriptBridge;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		003FE75A8E1D669CD141E6F191075945 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8393DD1E15DFBFFF1E8E538CF6059F0D /* Pods-OMUIKit_Tests.debug.xcconfig */;
@@ -885,6 +831,37 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		267A13B2704650E263CCC1C761C27585 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AD345B8FE93A5B39801B09020A40EF12 /* WKWebViewJavascriptBridge.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge.modulemap";
+				PRODUCT_MODULE_NAME = WKWebViewJavascriptBridge;
+				PRODUCT_NAME = WKWebViewJavascriptBridge;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		2F66C7E99895172C867062610C7ED2F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -1012,37 +989,6 @@
 			};
 			name = Release;
 		};
-		8A577BBAF2483244754C600177938572 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AD345B8FE93A5B39801B09020A40EF12 /* WKWebViewJavascriptBridge.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge.modulemap";
-				PRODUCT_MODULE_NAME = WKWebViewJavascriptBridge;
-				PRODUCT_NAME = WKWebViewJavascriptBridge;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		8DA99116BA9200D6990BB0D03D0A0B30 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F27122A0E87477CBFDA228594D2F1C7F /* KMNavigationBarTransition.release.xcconfig */;
@@ -1074,9 +1020,39 @@
 			};
 			name = Release;
 		};
+		8F1013943D8ACFCE5665D2D70FF5B3BA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C9713B078513DF4F3DAD467072E77F8E /* WKWebViewJavascriptBridge.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge.modulemap";
+				PRODUCT_MODULE_NAME = WKWebViewJavascriptBridge;
+				PRODUCT_NAME = WKWebViewJavascriptBridge;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		9A08D1FE10518047BDE6C8D9F39660AB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0A4EE6FAA3E99035DD490E0C4E634BC6 /* OMUIKit.debug.xcconfig */;
+			baseConfigurationReference = 2EA8A3C488744E181ACE5F924CB97B56 /* OMUIKit.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1106,7 +1082,7 @@
 		};
 		A3D5E7399F46A3B151FE1BD961635562 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7C8F6452573DA4A23D6E9E4B18E9AFA3 /* OMUIKit.release.xcconfig */;
+			baseConfigurationReference = E5495226ACEDA3E341777D153E553992 /* OMUIKit.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1289,11 +1265,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F0BBF64F91CA25C979C45C34788D159 /* Build configuration list for PBXNativeTarget "WKWebViewJavascriptBridge" */ = {
+		A0743F0D590AC81D2386315C1E4B72D7 /* Build configuration list for PBXNativeTarget "WKWebViewJavascriptBridge" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0024C839A9936D026C029C9D47989AE1 /* Debug */,
-				8A577BBAF2483244754C600177938572 /* Release */,
+				8F1013943D8ACFCE5665D2D70FF5B3BA /* Debug */,
+				267A13B2704650E263CCC1C761C27585 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

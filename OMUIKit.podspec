@@ -44,7 +44,7 @@ TODO: Add long description of the pod here.
   end
   
   s.subspec 'Adaptor' do |ss|
-    ss.source_files = 'OMUIKit/Classes/ScreenAdaptor/**/*'
+    ss.source_files = 'OMUIKit/Classes/Adaptor/**/*'
   end
   
   # s.resource_bundles = {

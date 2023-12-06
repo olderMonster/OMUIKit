@@ -43,7 +43,7 @@
     },
     {
       "name": "Adaptor",
-      "source_files": "OMUIKit/Classes/ScreenAdaptor/**/*"
+      "source_files": "OMUIKit/Classes/Adaptor/**/*"
     }
   ]
 }
