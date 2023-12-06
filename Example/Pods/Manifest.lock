@@ -1,0 +1,34 @@
+PODS:
+  - KMNavigationBarTransition (1.1.11)
+  - OMUIKit (0.1.0):
+    - OMUIKit/Adaptor (= 0.1.0)
+    - OMUIKit/Core (= 0.1.0)
+    - OMUIKit/Web (= 0.1.0)
+  - OMUIKit/Adaptor (0.1.0)
+  - OMUIKit/Core (0.1.0):
+    - KMNavigationBarTransition
+  - OMUIKit/Web (0.1.0):
+    - OMUIKit/Core
+    - WKWebViewJavascriptBridge
+  - WKWebViewJavascriptBridge (1.2.2)
+
+DEPENDENCIES:
+  - OMUIKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - KMNavigationBarTransition
+    - WKWebViewJavascriptBridge
+
+EXTERNAL SOURCES:
+  OMUIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KMNavigationBarTransition: f622e909e51f7308fb5b9aa38cceaa9e7c374e9c
+  OMUIKit: fbcd62d39b957b81b061d3eb688e5a2ba022bbab
+  WKWebViewJavascriptBridge: d7324badf8996486c71648f448617b09bf927b4b
+
+PODFILE CHECKSUM: e68ab763b9ba88aebbd2ff7b06ee0cf6b3771844
+
+COCOAPODS: 1.11.3

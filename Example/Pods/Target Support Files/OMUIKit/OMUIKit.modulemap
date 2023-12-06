@@ -1,0 +1,6 @@
+framework module OMUIKit {
+  umbrella header "OMUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "OMUIKit",
+  "version": "0.1.0",
+  "summary": "A short description of OMUIKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/olderMonster/OMUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "olderMonster": "406416312@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/olderMonster/OMUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "OMUIKit/Classes/**/*",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "OMUIKit/Classes/BaseViewController/**/*",
+      "dependencies": {
+        "KMNavigationBarTransition": [
+
+        ]
+      }
+    },
+    {
+      "name": "Web",
+      "source_files": "OMUIKit/Classes/BaseWebViewController/**/*",
+      "dependencies": {
+        "OMUIKit/Core": [
+
+        ],
+        "WKWebViewJavascriptBridge": [
+
+        ]
+      }
+    },
+    {
+      "name": "Adaptor",
+      "source_files": "OMUIKit/Classes/ScreenAdaptor/**/*"
+    }
+  ]
+}

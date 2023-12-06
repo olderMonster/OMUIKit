@@ -21,16 +21,31 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/cong.yin/OMUIKit'
+  s.homepage         = 'https://github.com/olderMonster/OMUIKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'cong.yin' => 'cong.yin@metawall.ai' }
-  s.source           = { :git => 'https://github.com/cong.yin/OMUIKit.git', :tag => s.version.to_s }
+  s.author           = { 'olderMonster' => '406416312@qq.com' }
+  s.source           = { :git => 'https://github.com/olderMonster/OMUIKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'OMUIKit/Classes/**/*'
+  
+  s.subspec 'Core' do |ss|
+    ss.source_files = 'OMUIKit/Classes/BaseViewController/**/*'
+    ss.dependency 'KMNavigationBarTransition'
+  end
+  
+  s.subspec 'Web' do |ss|
+    ss.source_files = 'OMUIKit/Classes/BaseWebViewController/**/*'
+    ss.dependency 'OMUIKit/Core'
+    ss.dependency 'WKWebViewJavascriptBridge'
+  end
+  
+  s.subspec 'Adaptor' do |ss|
+    ss.source_files = 'OMUIKit/Classes/ScreenAdaptor/**/*'
+  end
   
   # s.resource_bundles = {
   #   'OMUIKit' => ['OMUIKit/Assets/*.png']
@@ -38,5 +53,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+#   s.dependency 'AFNetworking'
 end
