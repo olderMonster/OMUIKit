@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'OMUIKit_Example' do
+  pod 'OMUIKit', :path => '../'
+
+  target 'OMUIKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
