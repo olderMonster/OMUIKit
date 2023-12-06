@@ -22,7 +22,7 @@ pod 'OMUIKit'
 
 ## Author
 
-cong.yin, cong.yin@metawall.ai
+olderMonsetr, 406416312@qq.com
 
 ## License
 
