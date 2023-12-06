@@ -45,11 +45,11 @@ open class OMNavigationController: UINavigationController {
         view.backgroundColor = .white
     }
     
-    public override var childViewControllerForStatusBarHidden: UIViewController? {
+    public override var childForStatusBarHidden: UIViewController? {
         return self.topViewController
     }
 
-    public override var childViewControllerForStatusBarStyle: UIViewController? {
+    public override var childForStatusBarStyle: UIViewController? {
         return self.topViewController
     }
     
