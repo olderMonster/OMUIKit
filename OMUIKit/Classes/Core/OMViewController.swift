@@ -28,7 +28,9 @@ extension UIViewController {
             if #available(iOS 13.0, *) {
                 let appearance = navigationController.navigationBar.standardAppearance
                 appearance.backgroundColor = newValue
-//                appearance.configureWithTransparentBackground()
+                if newValue == .clear {
+                    appearance.configureWithTransparentBackground()
+                }
                 appearance.shadowColor = .clear
                 navigationController.navigationBar.standardAppearance = appearance
                 if #available(iOS 15.0, *) {
